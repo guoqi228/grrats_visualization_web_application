@@ -1,0 +1,52 @@
+.parent {
+  background: White;
+  margin: auto;
+  border: 5px solid gray;
+  position: relative;
+  /*height: 120px;*/
+  /*width:220px;*/
+  border-radius:10px;
+}
+
+.center {
+		width:200px;
+		height:100px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.framei {
+		width:500px;
+		height:300px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.text{
+	font-size: 10px;
+	font-family:sans-serif;
+	font-weight:bold;
+	font-style: italic;
+	}
+.text2{
+	font-size: 8px;
+	font-family:sans-serif;
+	font-weight:bold;
+	font-style: italic;
+	}
+
+#dataurl{
+	font-size: 10px;
+	font-family:sans-serif;
+	font-style: italic;
+}
+	
+	
