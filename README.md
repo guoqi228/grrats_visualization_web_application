@@ -5,4 +5,5 @@ Global River Radar Altimetry Time Series (GRRATS) dataset as part of a NASA MEaS
 A web application for data visualization and downloading using Bing Map API. (http://research.bpcrc.osu.edu/grrats/)
 
 Author: Qi Guo 
-Date: May 2017
+
+Date: May, 2017
